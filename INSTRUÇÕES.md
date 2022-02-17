@@ -1,15 +1,15 @@
 # DesafioCapgemini
-Processo seletivo Capgemini 2022 - Desafio Java
+Processo seletivo Capgemini 2022 - Desafio Java <br />
 
-Instruções de como rodar a aplicação
+Instruções de como rodar a aplicação <br />
 
-1- Acessar a branch "master" deste reposítório;
-2- Copiar o código de cada questão;
-3- Acessar o compilador Java online através deste endereço:  https://www.jdoodle.com/online-java-compiler/
-4- Colar o código na área de desenvolvimento;
-5- Ativar o botão "Interactive";
-6- Iniciar a compilação clicando em "Execute";
-7- Verificar o console e se necessário, interagir com a aplicação.
+1- Acessar a branch "master" deste reposítório; <br />
+2- Copiar o código de cada questão;<br />
+3- Acessar o compilador Java online através deste endereço:  https://www.jdoodle.com/online-java-compiler/<br />
+4- Colar o código na área de desenvolvimento;<br />
+5- Ativar o botão "Interactive";<br />
+6- Iniciar a compilação clicando em "Execute";<br />
+7- Verificar o console e se necessário, interagir com a aplicação.<br />
 
 
 #QUESTÕES
